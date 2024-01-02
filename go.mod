@@ -1,3 +1,3 @@
-module github.com/RoyQuenider/calculator
+module calculator
 
 go 1.21.3

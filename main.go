@@ -1,9 +1,8 @@
 package main
 
 import (
+	"calculator/operations"
 	"fmt"
-
-	"github.com/RoyQuenider/calculator/operations"
 )
 
 func main() {
